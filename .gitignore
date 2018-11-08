@@ -1,0 +1,6 @@
+/lib/
+cscope.*
+.tags
+.ctags
+tags
+*.o
